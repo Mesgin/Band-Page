@@ -1,0 +1,43 @@
+
+#logo{
+    color: rgb(250, 132, 77);
+}
+.navbar-dark .navbar-brand:hover{
+    color: rgb(255, 81, 0);
+}
+
+.jumbotron{
+    color:rgba(255, 255, 255, 0.842);
+    text-shadow: -1px 0 black, 0 1px black, 1px 0 black, 0 -1px black;
+    margin-bottom:0px;
+    background-image: url(https://i1.sndcdn.com/artworks-AWBkmJlXcJ00-0-t500x500.jpg);
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    background-size: cover;
+    opacity: 0.9;
+}
+.footer{
+    border-top:3px solid orangered;
+    background-color: rgb(45, 46, 46);
+    text-align: center;
+    padding:30px;
+}
+.gallery{
+    background-color: rgb(110, 69, 54);
+    border-top: 3px solid orangered;
+}
+.photo-album{
+    width: 100%;
+    box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
+    margin: 10px 0px;
+    bordr: 2px solid rgb(175, 49, 3);
+}
+.about-article{
+    border-top: 3px solid orangered;
+    background-color: rgb(110, 69, 54);
+    color: rgba(255, 255, 255, 0.925);
+}
+p.title-subtitle
+    padding:20px;
+    font-size: 1.2rem;
+}
